@@ -2,7 +2,7 @@
 
 ## What is it?
 Trying to decrypt the cipher by Rust and WebAssembly on your website, and show plaintext by canvas, image or just text element.  
-See this article for details.
+See this [article](https://juejin.cn/post/7078299612972318727/) for details.
 
 ## Run example
 ```
